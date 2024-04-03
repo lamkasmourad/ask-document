@@ -1,0 +1,3780 @@
+{
+    "chunks": [
+        {
+            "text": " Oui",
+            "timestamp": [
+                2.42,
+                2.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " bonjour.",
+            "timestamp": [
+                2.64,
+                4.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Madame",
+            "timestamp": [
+                4.56,
+                4.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Gary,",
+            "timestamp": [
+                4.82,
+                6.62
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                6.62,
+                6.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                6.72,
+                6.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " d",
+            "timestamp": [
+                6.76,
+                6.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'un",
+            "timestamp": [
+                6.84,
+                6.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " point",
+            "timestamp": [
+                6.92,
+                6.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                6.98,
+                7.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " s",
+            "timestamp": [
+                7.2,
+                7.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'assurer",
+            "timestamp": [
+                7.28,
+                7.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                7.74,
+                7.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'assurance",
+            "timestamp": [
+                7.9,
+                8.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " animalière.",
+            "timestamp": [
+                8.14,
+                10.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                10.24,
+                10.62
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                10.62,
+                10.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " par",
+            "timestamp": [
+                10.72,
+                10.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " rapport",
+            "timestamp": [
+                10.88,
+                11.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avec",
+            "timestamp": [
+                11.1,
+                11.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " des",
+            "timestamp": [
+                11.32,
+                11.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " demandes",
+            "timestamp": [
+                11.4,
+                11.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " d",
+            "timestamp": [
+                11.52,
+                11.68
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'assurance",
+            "timestamp": [
+                11.68,
+                12.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " concernant",
+            "timestamp": [
+                12.02,
+                12.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " votre",
+            "timestamp": [
+                12.46,
+                12.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " aliment",
+            "timestamp": [
+                12.66,
+                12.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                12.82,
+                13.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " compagnie.",
+            "timestamp": [
+                13.06,
+                15.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Alors,",
+            "timestamp": [
+                15.44,
+                16.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                16.22,
+                16.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avez",
+            "timestamp": [
+                16.34,
+                16.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vu",
+            "timestamp": [
+                16.5,
+                16.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                16.72,
+                17.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " devis",
+            "timestamp": [
+                17.08,
+                17.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " que",
+            "timestamp": [
+                17.32,
+                17.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                17.54,
+                17.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avez",
+            "timestamp": [
+                17.66,
+                17.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " reçu",
+            "timestamp": [
+                17.84,
+                18.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                18.08,
+                18.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " notre",
+            "timestamp": [
+                18.26,
+                18.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " part?",
+            "timestamp": [
+                18.38,
+                20.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Ah",
+            "timestamp": [
+                20.06,
+                20.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                20.26,
+                20.3
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ne",
+            "timestamp": [
+                20.3,
+                20.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                20.42,
+                20.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'avez",
+            "timestamp": [
+                20.42,
+                49.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                49.98,
+                49.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " reçu?",
+            "timestamp": [
+                49.98,
+                49.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " On",
+            "timestamp": [
+                42.68,
+                42.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " s",
+            "timestamp": [
+                42.82,
+                43.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                43.02,
+                43.12
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " parlé",
+            "timestamp": [
+                43.12,
+                43.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                43.26,
+                43.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dernière",
+            "timestamp": [
+                43.52,
+                43.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " fois,",
+            "timestamp": [
+                43.7,
+                44.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                44.02,
+                44.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'était",
+            "timestamp": [
+                44.02,
+                44.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " par",
+            "timestamp": [
+                44.08,
+                44.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " rapport",
+            "timestamp": [
+                44.22,
+                44.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                44.48,
+                45.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " quelle",
+            "timestamp": [
+                45.2,
+                45.3
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " formule,",
+            "timestamp": [
+                45.3,
+                46.04
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " laquelle",
+            "timestamp": [
+                46.04,
+                46.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                46.34,
+                46.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " êtes...",
+            "timestamp": [
+                46.58,
+                48.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " qui",
+            "timestamp": [
+                48.74,
+                49.12
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                49.12,
+                49.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " intéresse",
+            "timestamp": [
+                49.36,
+                49.62
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                49.62,
+                49.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " plus.",
+            "timestamp": [
+                49.88,
+                51.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                55.86,
+                56.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                56.02,
+                56.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " celle",
+            "timestamp": [
+                56.18,
+                56.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                56.38,
+                57.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 23",
+            "timestamp": [
+                57.64,
+                57.96
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ou",
+            "timestamp": [
+                57.96,
+                58.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " bien",
+            "timestamp": [
+                58.1,
+                58.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " celle",
+            "timestamp": [
+                58.32,
+                58.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                58.44,
+                58.62
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 33?",
+            "timestamp": [
+                58.62,
+                60.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " La",
+            "timestamp": [
+                61.76,
+                62.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " différence",
+            "timestamp": [
+                62.0,
+                62.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " est",
+            "timestamp": [
+                62.4,
+                62.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " au",
+            "timestamp": [
+                62.54,
+                62.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " niveau",
+            "timestamp": [
+                62.64,
+                62.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " du",
+            "timestamp": [
+                62.76,
+                63.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " plafond",
+            "timestamp": [
+                63.0,
+                63.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " annuel",
+            "timestamp": [
+                63.26,
+                63.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " du",
+            "timestamp": [
+                63.54,
+                63.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " remboursement.",
+            "timestamp": [
+                63.7,
+                64.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Vous",
+            "timestamp": [
+                64.66,
+                64.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avez",
+            "timestamp": [
+                64.9,
+                65.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 2000",
+            "timestamp": [
+                65.2,
+                65.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " euros",
+            "timestamp": [
+                65.54,
+                65.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " sur",
+            "timestamp": [
+                65.8,
+                65.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                65.98,
+                66.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " formule",
+            "timestamp": [
+                66.14,
+                66.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " premium",
+            "timestamp": [
+                66.36,
+                66.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " et",
+            "timestamp": [
+                66.82,
+                67.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 1500",
+            "timestamp": [
+                67.52,
+                67.96
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " sur",
+            "timestamp": [
+                67.96,
+                68.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                68.22,
+                68.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " formule",
+            "timestamp": [
+                68.48,
+                68.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " complète",
+            "timestamp": [
+                68.8,
+                69.68
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " intermédiaire.",
+            "timestamp": [
+                69.68,
+                71.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Et",
+            "timestamp": [
+                71.2,
+                71.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                71.38,
+                72.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avez",
+            "timestamp": [
+                72.4,
+                72.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " aussi",
+            "timestamp": [
+                72.58,
+                72.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                72.82,
+                73.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vaccin.",
+            "timestamp": [
+                73.0,
+                73.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Alors",
+            "timestamp": [
+                73.54,
+                73.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                73.76,
+                74.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " forfait",
+            "timestamp": [
+                74.0,
+                74.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vaccinal",
+            "timestamp": [
+                74.66,
+                75.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                75.22,
+                75.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                75.4,
+                75.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 50",
+            "timestamp": [
+                75.56,
+                76.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " euros",
+            "timestamp": [
+                76.02,
+                76.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " sur",
+            "timestamp": [
+                76.32,
+                76.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                76.48,
+                76.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " formule",
+            "timestamp": [
+                76.66,
+                76.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " premium",
+            "timestamp": [
+                76.88,
+                77.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " et",
+            "timestamp": [
+                77.32,
+                77.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 25",
+            "timestamp": [
+                77.9,
+                78.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " euros",
+            "timestamp": [
+                78.32,
+                78.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " sur",
+            "timestamp": [
+                78.58,
+                78.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                78.7,
+                78.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " formule",
+            "timestamp": [
+                78.9,
+                79.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " complète.",
+            "timestamp": [
+                79.18,
+                80.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                80.22,
+                80.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                80.92,
+                81.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                81.02,
+                81.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " moitié.",
+            "timestamp": [
+                81.14,
+                81.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Et",
+            "timestamp": [
+                81.74,
+                82.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " aussi",
+            "timestamp": [
+                82.14,
+                82.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " au",
+            "timestamp": [
+                82.88,
+                83.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " niveau",
+            "timestamp": [
+                83.2,
+                83.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " des",
+            "timestamp": [
+                83.36,
+                83.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " croquettes",
+            "timestamp": [
+                83.64,
+                84.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " spéciales",
+            "timestamp": [
+                84.02,
+                84.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pour",
+            "timestamp": [
+                84.66,
+                84.86
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " suivre",
+            "timestamp": [
+                84.86,
+                85.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " un",
+            "timestamp": [
+                85.06,
+                85.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " régime",
+            "timestamp": [
+                85.18,
+                85.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " alimentaire,",
+            "timestamp": [
+                85.5,
+                86.3
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ça",
+            "timestamp": [
+                86.3,
+                86.3
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                86.3,
+                86.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                86.48,
+                86.6
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'aurez",
+            "timestamp": [
+                86.6,
+                86.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " sur",
+            "timestamp": [
+                86.74,
+                86.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                86.94,
+                87.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " formule",
+            "timestamp": [
+                87.2,
+                87.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " premium",
+            "timestamp": [
+                87.42,
+                87.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " et",
+            "timestamp": [
+                87.94,
+                88.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non",
+            "timestamp": [
+                88.94,
+                89.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                89.06,
+                89.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " sur",
+            "timestamp": [
+                89.22,
+                89.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                89.34,
+                89.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " formule",
+            "timestamp": [
+                89.54,
+                89.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " complète.",
+            "timestamp": [
+                89.8,
+                95.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Il",
+            "timestamp": [
+                95.7,
+                95.86
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                95.86,
+                95.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'y",
+            "timestamp": [
+                95.92,
+                95.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                95.92,
+                96.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                96.0,
+                96.12
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                96.12,
+                96.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " franchise",
+            "timestamp": [
+                96.28,
+                96.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " annuelle,",
+            "timestamp": [
+                96.5,
+                96.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " il",
+            "timestamp": [
+                96.94,
+                97.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                97.02,
+                97.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'y",
+            "timestamp": [
+                97.02,
+                97.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                97.08,
+                97.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " que",
+            "timestamp": [
+                97.1,
+                97.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " les",
+            "timestamp": [
+                97.46,
+                98.62
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 15",
+            "timestamp": [
+                98.62,
+                98.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "%",
+            "timestamp": [
+                98.92,
+                99.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " qui",
+            "timestamp": [
+                99.28,
+                99.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ont",
+            "timestamp": [
+                99.48,
+                99.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                99.5,
+                99.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " faire",
+            "timestamp": [
+                99.64,
+                99.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " être",
+            "timestamp": [
+                99.76,
+                99.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " rechargés",
+            "timestamp": [
+                99.9,
+                100.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " puisque",
+            "timestamp": [
+                100.18,
+                100.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                100.48,
+                100.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " taux",
+            "timestamp": [
+                100.66,
+                100.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                100.72,
+                100.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " remboursement",
+            "timestamp": [
+                100.82,
+                101.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " est",
+            "timestamp": [
+                101.34,
+                101.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                101.54,
+                101.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 85%.?",
+            "timestamp": [
+                101.7,
+                104.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Non",
+            "timestamp": [
+                104.76,
+                105.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non,",
+            "timestamp": [
+                105.0,
+                105.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " il",
+            "timestamp": [
+                105.1,
+                105.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                105.2,
+                105.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'y",
+            "timestamp": [
+                105.2,
+                105.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                105.2,
+                105.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                105.24,
+                105.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                105.38,
+                105.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " franchise",
+            "timestamp": [
+                105.44,
+                105.78
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " annuelle.",
+            "timestamp": [
+                105.78,
+                109.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Non.",
+            "timestamp": [
+                109.06,
+                111.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 85",
+            "timestamp": [
+                111.56,
+                112.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "%",
+            "timestamp": [
+                112.5,
+                113.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " oui,",
+            "timestamp": [
+                113.1,
+                113.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " surtout.",
+            "timestamp": [
+                113.54,
+                114.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Ouais,",
+            "timestamp": [
+                114.54,
+                114.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " surtout.",
+            "timestamp": [
+                114.9,
+                116.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " L",
+            "timestamp": [
+                116.48,
+                120.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'ernediscal",
+            "timestamp": [
+                120.46,
+                121.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " chez",
+            "timestamp": [
+                121.26,
+                121.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " nous,",
+            "timestamp": [
+                121.52,
+                122.04
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " si",
+            "timestamp": [
+                122.04,
+                122.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " t",
+            "timestamp": [
+                122.1,
+                122.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'as",
+            "timestamp": [
+                122.24,
+                122.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " un",
+            "timestamp": [
+                122.48,
+                123.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " accident,",
+            "timestamp": [
+                123.08,
+                123.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ça",
+            "timestamp": [
+                123.72,
+                123.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                123.74,
+                123.86
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                123.86,
+                123.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " remboursé.",
+            "timestamp": [
+                123.94,
+                125.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Ah,",
+            "timestamp": [
+                127.82,
+                128.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " un",
+            "timestamp": [
+                128.18,
+                128.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " teckel.",
+            "timestamp": [
+                128.4,
+                129.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Bah",
+            "timestamp": [
+                129.26,
+                130.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non,",
+            "timestamp": [
+                130.18,
+                130.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " je",
+            "timestamp": [
+                130.52,
+                130.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " crois",
+            "timestamp": [
+                130.54,
+                130.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non.",
+            "timestamp": [
+                130.76,
+                131.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Non",
+            "timestamp": [
+                131.14,
+                131.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non",
+            "timestamp": [
+                131.32,
+                131.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non",
+            "timestamp": [
+                131.48,
+                131.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non.",
+            "timestamp": [
+                131.66,
+                131.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " L",
+            "timestamp": [
+                131.94,
+                132.04
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'ernidiscale...",
+            "timestamp": [
+                132.04,
+                133.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Attendez,",
+            "timestamp": [
+                133.8,
+                134.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " je",
+            "timestamp": [
+                134.18,
+                134.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " veux",
+            "timestamp": [
+                134.28,
+                134.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas...",
+            "timestamp": [
+                134.44,
+                135.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Alors....",
+            "timestamp": [
+                138.58,
+                169.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Pour",
+            "timestamp": [
+                160.02,
+                160.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " les",
+            "timestamp": [
+                160.46,
+                160.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " maladies",
+            "timestamp": [
+                160.64,
+                161.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " congénitales.",
+            "timestamp": [
+                161.28,
+                166.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Les",
+            "timestamp": [
+                166.92,
+                167.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " maladies",
+            "timestamp": [
+                167.56,
+                167.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " congénitales,",
+            "timestamp": [
+                167.98,
+                168.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " des",
+            "timestamp": [
+                168.8,
+                168.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Téquelles,",
+            "timestamp": [
+                168.92,
+                169.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " non.",
+            "timestamp": [
+                169.36,
+                169.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Un",
+            "timestamp": [
+                169.82,
+                170.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " poil",
+            "timestamp": [
+                170.14,
+                170.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " long.",
+            "timestamp": [
+                170.34,
+                171.16
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Normalement",
+            "timestamp": [
+                171.28,
+                171.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                171.66,
+                171.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                171.8,
+                171.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                171.8,
+                172.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie.",
+            "timestamp": [
+                172.06,
+                174.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                175.14,
+                175.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                175.34,
+                175.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                175.34,
+                175.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie.",
+            "timestamp": [
+                175.58,
+                178.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Ouais,",
+            "timestamp": [
+                178.4,
+                178.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                178.7,
+                178.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie.",
+            "timestamp": [
+                178.98,
+                180.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Bon,",
+            "timestamp": [
+                180.54,
+                180.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                180.72,
+                180.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie,",
+            "timestamp": [
+                180.84,
+                181.62
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                181.62,
+                181.62
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                181.62,
+                181.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                181.74,
+                182.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " remboursé",
+            "timestamp": [
+                182.22,
+                182.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " chez",
+            "timestamp": [
+                182.64,
+                182.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                182.84,
+                182.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'importe",
+            "timestamp": [
+                182.94,
+                183.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " quelle",
+            "timestamp": [
+                183.24,
+                183.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " assurance.",
+            "timestamp": [
+                183.42,
+                184.04
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                184.14,
+                184.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                184.32,
+                182.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                182.08,
+                182.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " remboursé",
+            "timestamp": [
+                182.24,
+                182.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'importe",
+            "timestamp": [
+                182.94,
+                183.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " quelle",
+            "timestamp": [
+                183.2,
+                183.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " assurance,",
+            "timestamp": [
+                183.42,
+                184.16
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                184.16,
+                184.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                184.28,
+                184.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas...",
+            "timestamp": [
+                184.38,
+                186.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " chez",
+            "timestamp": [
+                186.72,
+                186.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                186.92,
+                187.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'importe",
+            "timestamp": [
+                187.14,
+                187.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " quelle",
+            "timestamp": [
+                187.44,
+                187.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " assurance,",
+            "timestamp": [
+                187.64,
+                188.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " y",
+            "timestamp": [
+                188.14,
+                188.16
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'a",
+            "timestamp": [
+                188.16,
+                188.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " aucune",
+            "timestamp": [
+                188.26,
+                188.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " assurance",
+            "timestamp": [
+                188.56,
+                188.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " qui",
+            "timestamp": [
+                188.9,
+                189.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " rembourse",
+            "timestamp": [
+                189.18,
+                189.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                189.42,
+                189.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie.",
+            "timestamp": [
+                189.64,
+                190.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Sauf,",
+            "timestamp": [
+                190.6,
+                191.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " je",
+            "timestamp": [
+                191.0,
+                191.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " crois",
+            "timestamp": [
+                191.2,
+                191.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " qu",
+            "timestamp": [
+                191.36,
+                191.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'il",
+            "timestamp": [
+                191.5,
+                191.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " y",
+            "timestamp": [
+                191.5,
+                191.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                191.5,
+                191.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " une",
+            "timestamp": [
+                191.7,
+                191.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " assurance,",
+            "timestamp": [
+                191.94,
+                193.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ça",
+            "timestamp": [
+                193.44,
+                193.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " s",
+            "timestamp": [
+                193.66,
+                193.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'appelle",
+            "timestamp": [
+                193.7,
+                193.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Santévet,",
+            "timestamp": [
+                193.76,
+                194.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " elle",
+            "timestamp": [
+                194.4,
+                194.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " couvre",
+            "timestamp": [
+                194.56,
+                194.78
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                194.78,
+                195.04
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie",
+            "timestamp": [
+                195.04,
+                195.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mais",
+            "timestamp": [
+                195.36,
+                195.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avec",
+            "timestamp": [
+                195.52,
+                195.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " des",
+            "timestamp": [
+                195.7,
+                195.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " conditions.",
+            "timestamp": [
+                195.94,
+                196.86
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                197.2,
+                197.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                197.38,
+                197.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                197.38,
+                197.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dire",
+            "timestamp": [
+                197.42,
+                197.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " si",
+            "timestamp": [
+                197.5,
+                197.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                197.66,
+                197.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " déclarer",
+            "timestamp": [
+                197.8,
+                198.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                198.18,
+                198.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie",
+            "timestamp": [
+                198.36,
+                198.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " après",
+            "timestamp": [
+                198.76,
+                199.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 5",
+            "timestamp": [
+                199.06,
+                199.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mois",
+            "timestamp": [
+                199.36,
+                199.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                199.54,
+                199.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " votre",
+            "timestamp": [
+                199.74,
+                199.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " animat",
+            "timestamp": [
+                199.94,
+                200.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                200.18,
+                200.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " compagnie,",
+            "timestamp": [
+                200.28,
+                200.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                200.56,
+                200.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " serez",
+            "timestamp": [
+                200.64,
+                200.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " jamais",
+            "timestamp": [
+                200.82,
+                201.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " remboursé.",
+            "timestamp": [
+                201.1,
+                201.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " D",
+            "timestamp": [
+                203.2,
+                203.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'accord?",
+            "timestamp": [
+                203.46,
+                204.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Non,",
+            "timestamp": [
+                205.08,
+                205.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " du",
+            "timestamp": [
+                205.38,
+                205.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " coup",
+            "timestamp": [
+                205.56,
+                205.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                205.64,
+                205.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " serez",
+            "timestamp": [
+                205.74,
+                205.94
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " jamais",
+            "timestamp": [
+                205.94,
+                206.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " remboursé",
+            "timestamp": [
+                206.2,
+                206.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pour",
+            "timestamp": [
+                206.5,
+                206.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                206.66,
+                206.78
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dysplasie.",
+            "timestamp": [
+                206.78,
+                207.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Bon,",
+            "timestamp": [
+                207.1,
+                207.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " il",
+            "timestamp": [
+                207.28,
+                207.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                207.36,
+                207.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'y",
+            "timestamp": [
+                207.38,
+                207.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                207.38,
+                207.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                207.44,
+                207.6
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " que",
+            "timestamp": [
+                207.6,
+                207.7
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                207.7,
+                207.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Nice",
+            "timestamp": [
+                207.88,
+                208.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "-Pla",
+            "timestamp": [
+                208.06,
+                208.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "-Vie",
+            "timestamp": [
+                208.26,
+                208.36
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " dans",
+            "timestamp": [
+                208.36,
+                208.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                208.5,
+                208.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vie",
+            "timestamp": [
+                208.64,
+                208.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " des",
+            "timestamp": [
+                208.76,
+                208.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " tchèques,",
+            "timestamp": [
+                208.92,
+                209.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " là.",
+            "timestamp": [
+                209.24,
+                210.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Il",
+            "timestamp": [
+                210.08,
+                210.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " y",
+            "timestamp": [
+                210.22,
+                210.22
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                210.22,
+                210.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " plusieurs",
+            "timestamp": [
+                210.54,
+                210.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " choses.",
+            "timestamp": [
+                210.84,
+                213.06
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " D",
+            "timestamp": [
+                213.06,
+                214.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'accord.",
+            "timestamp": [
+                214.74,
+                220.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " À",
+            "timestamp": [
+                220.58,
+                220.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                220.74,
+                220.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'instant,",
+            "timestamp": [
+                220.82,
+                221.32
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " je",
+            "timestamp": [
+                221.32,
+                221.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                229.66,
+                229.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'ai",
+            "timestamp": [
+                229.66,
+                229.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " renvoyé.",
+            "timestamp": [
+                229.66,
+                230.42
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                230.42,
+                230.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                230.46,
+                230.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mieux",
+            "timestamp": [
+                230.72,
+                230.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                230.88,
+                231.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                231.02,
+                231.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'assurer,",
+            "timestamp": [
+                231.14,
+                231.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " si",
+            "timestamp": [
+                231.48,
+                231.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ça",
+            "timestamp": [
+                231.56,
+                231.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                231.72,
+                231.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " intéresse",
+            "timestamp": [
+                231.9,
+                232.2
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                232.2,
+                232.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                232.34,
+                232.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'assurer,",
+            "timestamp": [
+                232.46,
+                232.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                232.82,
+                232.86
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                232.86,
+                232.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mieux",
+            "timestamp": [
+                232.88,
+                232.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                232.98,
+                233.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " l",
+            "timestamp": [
+                233.08,
+                233.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'assurer",
+            "timestamp": [
+                233.18,
+                233.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                233.38,
+                233.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " partir",
+            "timestamp": [
+                233.52,
+                233.82
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " du",
+            "timestamp": [
+                233.82,
+                233.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mois",
+            "timestamp": [
+                233.84,
+                234.0
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " prochain,",
+            "timestamp": [
+                234.0,
+                234.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                234.4,
+                234.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 1er",
+            "timestamp": [
+                234.5,
+                234.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avril,",
+            "timestamp": [
+                234.74,
+                236.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                236.14,
+                236.26
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mon",
+            "timestamp": [
+                236.26,
+                236.4
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " avis.",
+            "timestamp": [
+                236.4,
+                241.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Comme",
+            "timestamp": [
+                241.18,
+                241.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ça",
+            "timestamp": [
+                241.34,
+                241.44
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                241.44,
+                241.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " partez",
+            "timestamp": [
+                241.58,
+                241.92
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pour",
+            "timestamp": [
+                241.92,
+                242.14
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " un",
+            "timestamp": [
+                242.14,
+                242.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mois",
+            "timestamp": [
+                242.24,
+                242.38
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " d",
+            "timestamp": [
+                242.38,
+                242.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'entier.",
+            "timestamp": [
+                242.52,
+                244.1
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Même",
+            "timestamp": [
+                244.1,
+                244.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pour",
+            "timestamp": [
+                244.52,
+                244.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " les",
+            "timestamp": [
+                244.74,
+                244.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " prélèvements,",
+            "timestamp": [
+                244.98,
+                245.5
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " bah",
+            "timestamp": [
+                245.5,
+                245.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                245.58,
+                245.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " commencerons",
+            "timestamp": [
+                245.76,
+                246.04
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " que",
+            "timestamp": [
+                246.04,
+                246.18
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                246.18,
+                246.3
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " 10",
+            "timestamp": [
+                246.3,
+                246.6
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " du",
+            "timestamp": [
+                246.6,
+                246.8
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " mois",
+            "timestamp": [
+                246.8,
+                246.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " d",
+            "timestamp": [
+                246.9,
+                247.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'avril.",
+            "timestamp": [
+                247.02,
+                256.66
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Oui",
+            "timestamp": [
+                256.66,
+                256.84
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " oui",
+            "timestamp": [
+                256.84,
+                257.02
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " oui,",
+            "timestamp": [
+                257.02,
+                257.48
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                257.48,
+                257.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                257.56,
+                257.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " déjà",
+            "timestamp": [
+                257.56,
+                257.76
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " fait.",
+            "timestamp": [
+                257.76,
+                261.58
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Ok,",
+            "timestamp": [
+                261.58,
+                262.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " ça",
+            "timestamp": [
+                262.08,
+                262.16
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " marche.",
+            "timestamp": [
+                262.16,
+                272.68
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Pas",
+            "timestamp": [
+                272.68,
+                272.68
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " bon?",
+            "timestamp": [
+                272.68,
+                273.34
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Il",
+            "timestamp": [
+                273.34,
+                273.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                273.46,
+                273.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'y",
+            "timestamp": [
+                273.46,
+                273.52
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                273.52,
+                273.64
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                273.64,
+                273.78
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " de...",
+            "timestamp": [
+                273.78,
+                274.54
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " D",
+            "timestamp": [
+                274.54,
+                274.78
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'accord,",
+            "timestamp": [
+                274.78,
+                274.98
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " d",
+            "timestamp": [
+                274.98,
+                275.24
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": "'autres.",
+            "timestamp": [
+                275.24,
+                276.72
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Ça",
+            "timestamp": [
+                276.72,
+                277.08
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " marche.",
+            "timestamp": [
+                277.08,
+                278.56
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                278.56,
+                278.74
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                278.74,
+                278.9
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " en",
+            "timestamp": [
+                278.9,
+                279.04
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " prie,",
+            "timestamp": [
+                279.04,
+                279.28
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " merci",
+            "timestamp": [
+                279.28,
+                279.46
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                279.46,
+                279.6
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " vous,",
+            "timestamp": [
+                279.6,
+                279.78
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " au",
+            "timestamp": [
+                279.78,
+                279.88
+            ],
+            "actor": "agent"
+        },
+        {
+            "text": " revoir.",
+            "timestamp": [
+                279.88,
+                280.7
+            ],
+            "actor": "agent"
+        }
+    ]
+}

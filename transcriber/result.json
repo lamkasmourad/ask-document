@@ -1,0 +1,364 @@
+{
+    "chunks": [
+        {
+            "text": "Oui, allô?",
+            "actor": "client",
+            "start": 1,
+            "end": 4
+        },
+        {
+            "text": "Oui bonjour.",
+            "actor": "agent",
+            "start": 2,
+            "end": 5
+        },
+        {
+            "text": "Bonjour?",
+            "actor": "client",
+            "start": 4,
+            "end": 6
+        },
+        {
+            "text": "Madame Gary,",
+            "actor": "agent",
+            "start": 5,
+            "end": 7
+        },
+        {
+            "text": "Oui?",
+            "actor": "client",
+            "start": 6,
+            "end": 10
+        },
+        {
+            "text": "c 'est d 'un point de s 'assurer l 'assurance animalière.",
+            "actor": "agent",
+            "start": 7,
+            "end": 10
+        },
+        {
+            "text": "Oui?",
+            "actor": "client",
+            "start": 10,
+            "end": 14
+        },
+        {
+            "text": "C 'est par rapport avec des demandes d 'assurance concernant votre aliment de compagnie.",
+            "actor": "agent",
+            "start": 10,
+            "end": 15
+        },
+        {
+            "text": "Oui?",
+            "actor": "client",
+            "start": 14,
+            "end": 19
+        },
+        {
+            "text": "Alors, vous avez vu le devis que vous avez reçu de notre part?",
+            "actor": "agent",
+            "start": 15,
+            "end": 20
+        },
+        {
+            "text": "Non.",
+            "actor": "client",
+            "start": 19,
+            "end": 22
+        },
+        {
+            "text": "Ah vous ne l 'avez",
+            "actor": "agent",
+            "start": 20,
+            "end": 50
+        },
+        {
+            "text": "Peut -être, mais je ne vais pas donner le temps à rentrer. Oui,",
+            "actor": "client",
+            "start": 22,
+            "end": 39
+        },
+        {
+            "text": "On s 'est parlé la dernière fois, c 'était par rapport à quelle formule, laquelle vous êtes... qui vous intéresse le plus. pas reçu?",
+            "actor": "agent",
+            "start": 43,
+            "end": 50
+        },
+        {
+            "text": "je vais faire plusieurs. J 'ai contacté plusieurs.",
+            "actor": "client",
+            "start": 52,
+            "end": 59
+        },
+        {
+            "text": "C 'est celle à 23 ou bien celle à 33?",
+            "actor": "agent",
+            "start": 56,
+            "end": 60
+        },
+        {
+            "text": "C 'est",
+            "actor": "client",
+            "start": 59,
+            "end": 60
+        },
+        {
+            "text": "La différence est au niveau du plafond annuel du remboursement. Vous avez 2000 euros sur la formule premium et 1500 sur la formule complète intermédiaire. Et vous avez aussi le vaccin. Alors le forfait vaccinal c 'est 50 euros sur la formule premium et 25 euros sur la formule complète. C 'est le moitié. Et aussi au niveau des croquettes spéciales pour suivre un régime alimentaire, ça vous l 'aurez sur la formule premium et non pas sur la",
+            "actor": "agent",
+            "start": 62,
+            "end": 90
+        },
+        {
+            "text": "quoi la différence?",
+            "actor": "client",
+            "start": 90,
+            "end": 90
+        },
+        {
+            "text": "formule complète. Il n 'y a pas de franchise annuelle, il n 'y a que les 15 % qui ont à faire être rechargés puisque le taux de remboursement est de 85%.?",
+            "actor": "agent",
+            "start": 90,
+            "end": 105
+        },
+        {
+            "text": "ok.",
+            "actor": "client",
+            "start": 104,
+            "end": 107
+        },
+        {
+            "text": "Non non, il n 'y a pas de franchise annuelle.",
+            "actor": "agent",
+            "start": 105,
+            "end": 109
+        },
+        {
+            "text": "Donc il n 'y a pas de franchise annuelle et",
+            "actor": "client",
+            "start": 107,
+            "end": 109
+        },
+        {
+            "text": "Non.",
+            "actor": "agent",
+            "start": 109,
+            "end": 112
+        },
+        {
+            "text": "après en fait d 'accord,",
+            "actor": "client",
+            "start": 109,
+            "end": 104
+        },
+        {
+            "text": "85 % oui, surtout. Ouais, surtout. L 'ernediscal chez nous, si t 'as un accident, ça c 'est remboursé. Ah, un teckel. Bah non, je crois non. Non non non non. L 'ernidiscale... Attendez, je veux pas... Alors....",
+            "actor": "agent",
+            "start": 112,
+            "end": 170
+        },
+        {
+            "text": "vous avez des questions. Je ne sais pasais",
+            "actor": "client",
+            "start": 150,
+            "end": 165
+        },
+        {
+            "text": "Pour les maladies congénitales.",
+            "actor": "agent",
+            "start": 160,
+            "end": 166
+        },
+        {
+            "text": "regarder ça. Pardon? Je ne pas. comprends",
+            "actor": "client",
+            "start": 165,
+            "end": 167
+        },
+        {
+            "text": "Les maladies congénitales, des Téquelles, non. Un poil long.",
+            "actor": "agent",
+            "start": 167,
+            "end": 171
+        },
+        {
+            "text": "Oui.",
+            "actor": "client",
+            "start": 170,
+            "end": 173
+        },
+        {
+            "text": "Normalement c 'est la dysplasie.",
+            "actor": "agent",
+            "start": 171,
+            "end": 175
+        },
+        {
+            "text": "Oui. C 'est pardon?",
+            "actor": "client",
+            "start": 173,
+            "end": 177
+        },
+        {
+            "text": "C 'est la dysplasie.",
+            "actor": "agent",
+            "start": 175,
+            "end": 178
+        },
+        {
+            "text": "Oui, voilà, peut -être.",
+            "actor": "client",
+            "start": 177,
+            "end": 179
+        },
+        {
+            "text": "Ouais, la dysplasie.",
+            "actor": "agent",
+            "start": 178,
+            "end": 180
+        },
+        {
+            "text": "OK.",
+            "actor": "client",
+            "start": 179,
+            "end": 183
+        },
+        {
+            "text": "Bon, la dysplasie, c 'est pas pas remboursé remboursé chez n 'importe 'importe",
+            "actor": "agent",
+            "start": 181,
+            "end": 183
+        },
+        {
+            "text": "D",
+            "actor": "client",
+            "start": 183,
+            "end": 184
+        },
+        {
+            "text": "quelle quelle assurance. assurance,",
+            "actor": "agent",
+            "start": 183,
+            "end": 184
+        },
+        {
+            "text": "'accord.",
+            "actor": "client",
+            "start": 184,
+            "end": 210
+        },
+        {
+            "text": "C c 'est 'est pas... chez n 'importe quelle assurance, y 'a aucune assurance qui rembourse la dysplasie. Sauf, je crois qu 'il y a une assurance, ça s 'appelle Santévet, elle couvre la dysplasie mais avec des conditions. C 'est à dire si vous déclarer la dysplasie après 5 mois de votre animat de compagnie, vous serez jamais remboursé. D 'accord? Non, du coup vous serez jamais remboursé pour la dysplasie. Bon, il n 'y a pas que la Nice -Pla -Vie dans la vie des tchèques, là.",
+            "actor": "agent",
+            "start": 184,
+            "end": 210
+        },
+        {
+            "text": "D 'accord.",
+            "actor": "client",
+            "start": 210,
+            "end": 213
+        },
+        {
+            "text": "Il y a plusieurs choses.",
+            "actor": "agent",
+            "start": 210,
+            "end": 213
+        },
+        {
+            "text": "D 'accord. Oui.",
+            "actor": "client",
+            "start": 213,
+            "end": 214
+        },
+        {
+            "text": "D",
+            "actor": "agent",
+            "start": 213,
+            "end": 215
+        },
+        {
+            "text": "OK.",
+            "actor": "client",
+            "start": 214,
+            "end": 216
+        },
+        {
+            "text": "'accord.",
+            "actor": "agent",
+            "start": 215,
+            "end": 221
+        },
+        {
+            "text": "Bon,",
+            "actor": "client",
+            "start": 216,
+            "end": 217
+        },
+        {
+            "text": "À l 'instant, je l 'ai renvoyé. C 'est mieux de l 'assurer, si ça vous intéresse de l 'assurer, c 'est mieux de l 'assurer à partir du mois prochain, le 1er avril, à mon avis. Comme ça vous partez pour un mois d 'entier. Même pour les prélèvements, bah le commencerons que le 10 du mois d 'avril.",
+            "actor": "agent",
+            "start": 221,
+            "end": 257
+        },
+        {
+            "text": "remercie. Je vous remercie. Je vous remercie. devis là, c",
+            "actor": "client",
+            "start": 250,
+            "end": 257
+        },
+        {
+            "text": "Oui",
+            "actor": "agent",
+            "start": 257,
+            "end": 257
+        },
+        {
+            "text": "'est ça?",
+            "actor": "client",
+            "start": 257,
+            "end": 259
+        },
+        {
+            "text": "oui oui, c 'est déjà fait.",
+            "actor": "agent",
+            "start": 257,
+            "end": 262
+        },
+        {
+            "text": "OK. Je vais étudier toutant.",
+            "actor": "client",
+            "start": 259,
+            "end": 277
+        },
+        {
+            "text": "Ok, ça marche. Pas bon? Il n 'y a pas de... D 'accord, d 'autres. Ça",
+            "actor": "agent",
+            "start": 262,
+            "end": 277
+        },
+        {
+            "text": "Merci",
+            "actor": "client",
+            "start": 277,
+            "end": 277
+        },
+        {
+            "text": "marche.",
+            "actor": "agent",
+            "start": 277,
+            "end": 279
+        },
+        {
+            "text": "pour votre appel.",
+            "actor": "client",
+            "start": 277,
+            "end": 279
+        },
+        {
+            "text": "Je vous en prie, merci à vous, au revoir.",
+            "actor": "agent",
+            "start": 279,
+            "end": 281
+        }
+    ]
+}

@@ -1,0 +1,2146 @@
+{
+    "chunks": [
+        {
+            "text": " Oui,",
+            "timestamp": [
+                0.96,
+                1.44
+            ]
+        },
+        {
+            "text": " allô?",
+            "timestamp": [
+                1.44,
+                4.12
+            ]
+        },
+        {
+            "text": " Bonjour?",
+            "timestamp": [
+                4.12,
+                6.02
+            ]
+        },
+        {
+            "text": " Oui?",
+            "timestamp": [
+                6.02,
+                9.66
+            ]
+        },
+        {
+            "text": " Oui?",
+            "timestamp": [
+                9.66,
+                14.22
+            ]
+        },
+        {
+            "text": " Oui?",
+            "timestamp": [
+                14.22,
+                18.8
+            ]
+        },
+        {
+            "text": " Non.",
+            "timestamp": [
+                18.8,
+                21.78
+            ]
+        },
+        {
+            "text": " Peut",
+            "timestamp": [
+                21.78,
+                23.32
+            ]
+        },
+        {
+            "text": "-être,",
+            "timestamp": [
+                23.32,
+                24.16
+            ]
+        },
+        {
+            "text": " mais",
+            "timestamp": [
+                24.16,
+                24.28
+            ]
+        },
+        {
+            "text": " je",
+            "timestamp": [
+                24.28,
+                25.36
+            ]
+        },
+        {
+            "text": " ne",
+            "timestamp": [
+                25.36,
+                25.6
+            ]
+        },
+        {
+            "text": " vais",
+            "timestamp": [
+                25.6,
+                26.32
+            ]
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                37.58,
+                37.58
+            ]
+        },
+        {
+            "text": " donner",
+            "timestamp": [
+                37.58,
+                37.58
+            ]
+        },
+        {
+            "text": " le",
+            "timestamp": [
+                37.58,
+                37.58
+            ]
+        },
+        {
+            "text": " temps",
+            "timestamp": [
+                37.58,
+                37.58
+            ]
+        },
+        {
+            "text": " à",
+            "timestamp": [
+                37.58,
+                37.58
+            ]
+        },
+        {
+            "text": " rentrer.",
+            "timestamp": [
+                37.58,
+                37.58
+            ]
+        },
+        {
+            "text": " Oui,",
+            "timestamp": [
+                37.58,
+                38.78
+            ]
+        },
+        {
+            "text": " je",
+            "timestamp": [
+                52.42,
+                52.66
+            ]
+        },
+        {
+            "text": " vais",
+            "timestamp": [
+                52.66,
+                52.78
+            ]
+        },
+        {
+            "text": " faire",
+            "timestamp": [
+                52.78,
+                53.06
+            ]
+        },
+        {
+            "text": " plusieurs.",
+            "timestamp": [
+                53.06,
+                54.0
+            ]
+        },
+        {
+            "text": " J",
+            "timestamp": [
+                54.0,
+                54.22
+            ]
+        },
+        {
+            "text": "'ai",
+            "timestamp": [
+                54.22,
+                54.38
+            ]
+        },
+        {
+            "text": " contacté",
+            "timestamp": [
+                54.38,
+                54.7
+            ]
+        },
+        {
+            "text": " plusieurs.",
+            "timestamp": [
+                54.7,
+                59.48
+            ]
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                59.48,
+                60.34
+            ]
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                60.34,
+                60.36
+            ]
+        },
+        {
+            "text": " quoi",
+            "timestamp": [
+                89.54,
+                89.54
+            ]
+        },
+        {
+            "text": " la",
+            "timestamp": [
+                89.54,
+                89.54
+            ]
+        },
+        {
+            "text": " différence?",
+            "timestamp": [
+                89.54,
+                89.54
+            ]
+        },
+        {
+            "text": " d",
+            "timestamp": [
+                109.98,
+                109.98
+            ]
+        },
+        {
+            "text": "'accord,",
+            "timestamp": [
+                109.98,
+                104.12
+            ]
+        },
+        {
+            "text": " ok.",
+            "timestamp": [
+                104.12,
+                106.7
+            ]
+        },
+        {
+            "text": " Donc",
+            "timestamp": [
+                106.7,
+                107.72
+            ]
+        },
+        {
+            "text": " il",
+            "timestamp": [
+                107.72,
+                107.82
+            ]
+        },
+        {
+            "text": " n",
+            "timestamp": [
+                107.82,
+                107.82
+            ]
+        },
+        {
+            "text": "'y",
+            "timestamp": [
+                107.82,
+                107.82
+            ]
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                107.82,
+                107.86
+            ]
+        },
+        {
+            "text": " pas",
+            "timestamp": [
+                107.86,
+                107.98
+            ]
+        },
+        {
+            "text": " de",
+            "timestamp": [
+                107.98,
+                108.16
+            ]
+        },
+        {
+            "text": " franchise",
+            "timestamp": [
+                108.16,
+                108.42
+            ]
+        },
+        {
+            "text": " annuelle",
+            "timestamp": [
+                108.42,
+                108.96
+            ]
+        },
+        {
+            "text": " et",
+            "timestamp": [
+                108.96,
+                109.18
+            ]
+        },
+        {
+            "text": " après",
+            "timestamp": [
+                109.18,
+                109.54
+            ]
+        },
+        {
+            "text": " en",
+            "timestamp": [
+                109.54,
+                109.72
+            ]
+        },
+        {
+            "text": " fait",
+            "timestamp": [
+                109.72,
+                110.04
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                149.98,
+                149.98
+            ]
+        },
+        {
+            "text": " avez",
+            "timestamp": [
+                149.98,
+                149.98
+            ]
+        },
+        {
+            "text": " des",
+            "timestamp": [
+                149.98,
+                149.98
+            ]
+        },
+        {
+            "text": " questions.",
+            "timestamp": [
+                149.98,
+                149.98
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                149.98,
+                149.98
+            ]
+        },
+        {
+            "text": " ne",
+            "timestamp": [
+                149.98,
+                149.98
+            ]
+        },
+        {
+            "text": " sais",
+            "timestamp": [
+                149.98,
+                149.98
+            ]
+        },
+        {
+            "text": " pasais",
+            "timestamp": [
+                149.98,
+                165.46
+            ]
+        },
+        {
+            "text": " regarder",
+            "timestamp": [
+                165.46,
+                165.46
+            ]
+        },
+        {
+            "text": " ça.",
+            "timestamp": [
+                165.46,
+                165.46
+            ]
+        },
+        {
+            "text": " Pardon?",
+            "timestamp": [
+                165.46,
+                165.46
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                165.46,
+                166.18
+            ]
+        },
+        {
+            "text": " ne",
+            "timestamp": [
+                166.18,
+                166.52
+            ]
+        },
+        {
+            "text": " comprends",
+            "timestamp": [
+                166.52,
+                166.5
+            ]
+        },
+        {
+            "text": " pas.",
+            "timestamp": [
+                166.5,
+                170.36
+            ]
+        },
+        {
+            "text": " Oui.",
+            "timestamp": [
+                170.36,
+                172.52
+            ]
+        },
+        {
+            "text": " Oui.",
+            "timestamp": [
+                172.52,
+                174.24
+            ]
+        },
+        {
+            "text": " C",
+            "timestamp": [
+                174.24,
+                174.9
+            ]
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                174.9,
+                175.0
+            ]
+        },
+        {
+            "text": " pardon?",
+            "timestamp": [
+                175.0,
+                177.24
+            ]
+        },
+        {
+            "text": " Oui,",
+            "timestamp": [
+                177.24,
+                177.66
+            ]
+        },
+        {
+            "text": " voilà,",
+            "timestamp": [
+                177.66,
+                178.0
+            ]
+        },
+        {
+            "text": " peut",
+            "timestamp": [
+                178.0,
+                178.08
+            ]
+        },
+        {
+            "text": "-être.",
+            "timestamp": [
+                178.08,
+                179.1
+            ]
+        },
+        {
+            "text": " OK.",
+            "timestamp": [
+                179.1,
+                182.96
+            ]
+        },
+        {
+            "text": " D",
+            "timestamp": [
+                182.96,
+                183.58
+            ]
+        },
+        {
+            "text": "'accord.",
+            "timestamp": [
+                183.58,
+                209.52
+            ]
+        },
+        {
+            "text": " D",
+            "timestamp": [
+                209.52,
+                209.52
+            ]
+        },
+        {
+            "text": "'accord.",
+            "timestamp": [
+                209.52,
+                212.64
+            ]
+        },
+        {
+            "text": " D",
+            "timestamp": [
+                212.64,
+                212.64
+            ]
+        },
+        {
+            "text": "'accord.",
+            "timestamp": [
+                212.64,
+                212.64
+            ]
+        },
+        {
+            "text": " Oui.",
+            "timestamp": [
+                212.64,
+                213.92
+            ]
+        },
+        {
+            "text": " OK.",
+            "timestamp": [
+                213.92,
+                215.98
+            ]
+        },
+        {
+            "text": " Bon,",
+            "timestamp": [
+                215.98,
+                216.6
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.8,
+                249.8
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.8,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " vous",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " remercie.",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                249.86,
+                249.86
+            ]
+        },
+        {
+            "text": " devis",
+            "timestamp": [
+                256.12,
+                256.28
+            ]
+        },
+        {
+            "text": " là,",
+            "timestamp": [
+                256.28,
+                256.6
+            ]
+        },
+        {
+            "text": " c",
+            "timestamp": [
+                256.6,
+                256.74
+            ]
+        },
+        {
+            "text": "'est",
+            "timestamp": [
+                256.74,
+                256.82
+            ]
+        },
+        {
+            "text": " ça?",
+            "timestamp": [
+                256.82,
+                259.12
+            ]
+        },
+        {
+            "text": " OK.",
+            "timestamp": [
+                259.12,
+                259.8
+            ]
+        },
+        {
+            "text": " Je",
+            "timestamp": [
+                259.8,
+                260.3
+            ]
+        },
+        {
+            "text": " vais",
+            "timestamp": [
+                260.3,
+                260.5
+            ]
+        },
+        {
+            "text": " étudier",
+            "timestamp": [
+                260.5,
+                260.92
+            ]
+        },
+        {
+            "text": " toutant.",
+            "timestamp": [
+                260.92,
+                276.98
+            ]
+        },
+        {
+            "text": " Merci",
+            "timestamp": [
+                276.98,
+                277.12
+            ]
+        },
+        {
+            "text": " pour",
+            "timestamp": [
+                277.12,
+                277.84
+            ]
+        },
+        {
+            "text": " votre",
+            "timestamp": [
+                277.84,
+                278.26
+            ]
+        },
+        {
+            "text": " appel.",
+            "timestamp": [
+                278.26,
+                278.8
+            ]
+        }
+    ]
+}

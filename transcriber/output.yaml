@@ -1,0 +1,76 @@
+conversations:
+  conversation_1:
+    chunks:
+    - actor: agent
+      text: ' Parlez-vous français?'
+      timestamp:
+      - 0.0
+      - 3.0
+    - actor: client
+      text: ' Pour pratiquer et mieux comprendre le français parlé, je vous ai préparé
+        dix phrases à répéter.'
+      timestamp:
+      - 3.94
+      - 9.78
+    - actor: agent
+      text: ' Je prononce chaque phrase une fois, vous répétez et je prononce une
+        seconde fois.'
+      timestamp:
+      - 10.9
+      - 17.48
+    - actor: client
+      text: ' Vous êtes prêts?'
+      timestamp:
+      - 18.8
+      - 20.0
+    - actor: client
+      text: ' Première phrase'
+      timestamp:
+      - 21.16
+      - 31.0
+    - actor: client
+      text: ' Deuxième phrase'
+      timestamp:
+      - 33.0
+      - 42.0
+    - actor: client
+      text: ' Troisième phrase Quatrième phrase Cinquième phrase'
+      timestamp:
+      - 52.8
+      - 62.92
+    - actor: agent
+      text: ' Cinquième phrase Sixième phrase'
+      timestamp:
+      - 62.94
+      - 75.14
+    - actor: agent
+      text: ' Septième phrase.'
+      timestamp:
+      - 87.52
+      - 88.3
+    - actor: agent
+      text: ' Qu''est-ce que tu dis?'
+      timestamp:
+      - 90.04
+      - 94.0
+    - actor: agent
+      text: ' Huitième phrase.'
+      timestamp:
+      - 96.0
+      - 98.22
+    - actor: agent
+      text: ' T''as raison.'
+      timestamp:
+      - 99.36
+      - 99.8
+    - actor: agent
+      text: ' Neuvième phrase Dixième phrase'
+      timestamp:
+      - 107.42
+      - 118.1
+    - actor: agent
+      text: ' Essayez de pratiquer et de répéter ces phrases un maximum pour habituer
+        votre oreille au français parlé. À bientôt!'
+      timestamp:
+      - 135.44
+      - 141.38
