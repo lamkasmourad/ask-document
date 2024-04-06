@@ -21,7 +21,6 @@ openai_key = os.getenv('OPENAI_API_KEY')
 def get_text_from_doc(docs):
     text = ""
     for doc in docs:
-        print(doc.type)
         if doc.type == "application/pdf":
             pdf_reader = PdfReader(doc)
             for page in pdf_reader.pages:
@@ -66,18 +65,21 @@ def get_conversation_chain(vectorstore, model_name="gpt-4-0125-preview"):
 
 
 def handle_userinput(user_question):
-    response = st.session_state.conversation({'question': user_question})
-    st.session_state.chat_history = response['chat_history']
+    try:
+        response = st.session_state.conversation({'question': user_question})
+        st.session_state.chat_history = response['chat_history']
 
-    for i, message in enumerate(st.session_state.chat_history):
-        if i % 2 == 0:
-            st.write(user_template.replace(
-                "{{MSG}}", message.content), unsafe_allow_html=True)
-        else:
-            st.write(bot_template.replace(
-                "{{MSG}}", message.content), unsafe_allow_html=True)
-
-# takes audio file name and returns in yml of the conversation
+        for i, message in enumerate(st.session_state.chat_history):
+            if i % 2 == 0:
+                # Replace {{MSG}} with the actual message content for the user
+                st.markdown(user_template.replace(
+                    "{MSG}", message.content), unsafe_allow_html=True)
+            else:
+                # Replace {{MSG}} with the actual message content for the bot
+                st.markdown(bot_template.replace(
+                    "{MSG}", message.content), unsafe_allow_html=True)
+    except Exception as e:
+        st.error("Veuillez d'abord charger le fichier puis cliquer sur 'Traiter'.")
 
 
 async def get_audio_text(audio_path):
@@ -117,7 +119,7 @@ def main():
     model_choice = st.selectbox(
         "Modèle à utiliser",
         options=[("GPT 4 - 128k", "gpt-4-0125-preview"),
-                 ("GPT 3 - 16k", "gpt-3.5-turbo-0125")],
+                 ("GPT 3.5 - 16k", "gpt-3.5-turbo-0125")],
         format_func=lambda x: x[0],
         index=0,
     )
@@ -129,29 +131,31 @@ def main():
         st.subheader("Vos documents")
         doc_files = st.file_uploader(
             "Chargez vos documents ici, puis appuyez sur 'Traiter'", accept_multiple_files=True)
-        col1, col2, col3 = st.columns([1, 1, 1])
-        with col2:
-            if st.button("Traiter"):
-                if not doc_files:
-                    st.error("Aucun document n'a été sélectionné.")
+
+        if st.button("Traiter"):
+            if not doc_files:
+                st.error("Aucun document n'a été sélectionné.")
+                return
+            with st.spinner("Traitement en cours"):
+                # Get audio text
+                raw_text = get_text_from_doc(doc_files)
+                if not raw_text:
+                    st.error(
+                        "Aucun texte n'a été extrait des fichiers.")
                     return
-                with st.spinner("Traitement en cours"):
-                    # Get audio text
-                    raw_text = get_text_from_doc(doc_files)
-                    if not raw_text:
-                        st.error(
-                            "Aucun texte n'a été extrait des fichiers.")
-                        return
-                    # Get the text chunks
-                    text_chunks = get_text_chunks(raw_text)
+                else:
+                    st.empty()
+                # Get the text chunks
 
-                    # Create vector store
-                    vectorstore = get_vectorstore(
-                        text_chunks, model_name=selected_model_value)
+                text_chunks = get_text_chunks(raw_text)
 
-                    # Create conversation chain
-                    st.session_state.conversation = get_conversation_chain(
-                        vectorstore, model_name=selected_model_value)
+                # Create vector store
+                vectorstore = get_vectorstore(
+                    text_chunks, model_name=selected_model_value)
+
+                # Create conversation chain
+                st.session_state.conversation = get_conversation_chain(
+                    vectorstore, model_name=selected_model_value)
 
 
 if __name__ == '__main__':

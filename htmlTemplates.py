@@ -1,3 +1,20 @@
+
+import streamlit as st
+import base64
+
+
+def get_image_base64(filepath: str) -> str:
+    """
+    filepath: path to the image. Must have a valid file extension.
+    Returns: base64 encoded string of the image.
+    """
+    mime_type = filepath.split('.')[-1:][0].lower()
+    with open(filepath, "rb") as f:
+        content_bytes = f.read()
+    content_b64encoded = base64.b64encode(content_bytes).decode()
+    return f'data:image/{mime_type};base64,{content_b64encoded}'
+
+
 css = '''
 <style>
 .chat-message {
@@ -13,8 +30,8 @@ css = '''
   width: 20%;
 }
 .chat-message .avatar img {
-  max-width: 78px;
-  max-height: 78px;
+    max-width: 73px;
+    max-height: 73px;
   border-radius: 50%;
   object-fit: cover;
 }
@@ -28,17 +45,17 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://i.ibb.co/cN0nmSj/Screenshot-2023-05-28-at-02-37-21.png" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
+        <img src="{bot_image}" style="position:absolute;left:7px;max-width:110px; max-height:110px;">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
-'''
+'''.format(bot_image=get_image_base64("robot.png"))
 
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://i.ibb.co/rdZC7LZ/Photo-logo-1.png">
+        <img src="{user_image}">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
-'''
+'''.format(user_image=get_image_base64("client.png"))
