@@ -41,14 +41,14 @@ def get_text_chunks(text):
     return chunks
 
 
-def get_vectorstore(text_chunks, model_name="gpt-4-0125-preview"):
+def get_vectorstore(text_chunks, model_name="gpt-4-turbo"):
     embeddings = OpenAIEmbeddings(model=model_name)
     # embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl")
     vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     return vectorstore
 
 
-def get_conversation_chain(vectorstore, model_name="gpt-4-0125-preview"):
+def get_conversation_chain(vectorstore, model_name="gpt-4-turbo"):
     llm = ChatOpenAI(temperature=0.2, model_name=model_name,
                      openai_api_key=openai_key)
 
@@ -118,8 +118,10 @@ def main():
         "Entrez votre question relative aux documents :")
     model_choice = st.selectbox(
         "Modèle à utiliser",
-        options=[("GPT 4 - 128k", "gpt-4-0125-preview"),
-                 ("GPT 3.5 - 16k", "gpt-3.5-turbo-0125")],
+        options=[
+            ("GPT 4 - 128k", "gpt-4-turbo"),
+            ("GPT 3.5 - 16k", "gpt-3.5-turbo-0125"),
+        ],
         format_func=lambda x: x[0],
         index=0,
     )
